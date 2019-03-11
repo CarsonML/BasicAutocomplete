@@ -1,5 +1,5 @@
 # BasicAutocomplete
-A basic script to do autocomplete based on a text file
+ A script to do basic autocomplete based on a text file
 
 # The Data
 I was given a dataset of search history off which to base my autocomplete script. It was in the form of a text file, with each line being a search query.
